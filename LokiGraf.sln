@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LokiGraf.API", "LokiGraf.API\LokiGraf.API.csproj", "{7F35C685-3039-4A2D-B850-888928616844}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{0726C80A-F9D5-412D-85AE-FDEFB90E80C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F35C685-3039-4A2D-B850-888928616844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F35C685-3039-4A2D-B850-888928616844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F35C685-3039-4A2D-B850-888928616844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F35C685-3039-4A2D-B850-888928616844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0726C80A-F9D5-412D-85AE-FDEFB90E80C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0726C80A-F9D5-412D-85AE-FDEFB90E80C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0726C80A-F9D5-412D-85AE-FDEFB90E80C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0726C80A-F9D5-412D-85AE-FDEFB90E80C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308051E7-87DF-486F-BE1F-0928E8ABCDC1}
+	EndGlobalSection
+EndGlobal
